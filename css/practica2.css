@@ -1,0 +1,23 @@
+.imagen{
+    width: 300px;
+    align-content: center;
+}
+.titulo{
+    font-size:  30px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+
+.container{
+    color:black
+
+
+}
+.col-lg-15
+{
+  position: relative;
+  min-height: 1px; 
+}
